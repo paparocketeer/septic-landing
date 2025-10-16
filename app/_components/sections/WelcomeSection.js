@@ -76,7 +76,7 @@ function LargeScreen() {
         <div className="col-span-2 flex gap-5">
           <div className="relative h-[22rem] overflow-hidden">
             <Image
-              src="/about/about-2.jpg"
+              src="/about/about-1.jpg"
               alt="about"
               width={2000}
               height={1000}
@@ -85,7 +85,7 @@ function LargeScreen() {
           </div>
           <div className="relative h-[22rem] overflow-hidden">
             <Image
-              src="/about/about-3.jpg"
+              src="/about/about-1.jpg"
               alt="about"
               width={2000}
               height={1000}
@@ -139,7 +139,7 @@ function MobileScreen() {
         </p>
         <div className="relative my-4 overflow-hidden">
           <Image
-            src="/about/about-2.jpg"
+            src="/about/about-1.jpg"
             alt="about"
             width={2000}
             height={1000}
@@ -157,7 +157,7 @@ function MobileScreen() {
         </p>
         <div className="relative my-4 w-full overflow-hidden">
           <Image
-            src="/about/about-header.jpg"
+            src="/about/about-1.jpg"
             alt="about"
             width={2000}
             height={1000}
