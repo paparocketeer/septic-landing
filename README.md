@@ -1,7 +1,3 @@
-# Trade Go Limited Website
-
-A modern, responsive website built with Next.js, Tailwind CSS, and JavaScript for Trade Go Limited.
-
 ## 🚀 Quick Start
 
 ```bash
@@ -128,8 +124,3 @@ npm start         # Start production server
 ## 📄 License
 
 This project is proprietary and confidential. All rights reserved.
-
-## 📞 Contact
-
-For any queries, please reach out to Azizul Islam Tushar.
-mailto:azizultushar98@gmail.com
